@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b30c8cb4-b154-4497-a59a-9ee97a0138d2": {
+      "ProjectGuid": "b30c8cb4-b154-4497-a59a-9ee97a0138d2",
+      "DisplayName": "Console Blind_Maze",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
